@@ -97,6 +97,7 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Ali Mehr](https://github.com/alimehr75)
 - [alumpish :sunglasses:](https://github.com/alumpish)
 - [AmirHossein Fourotan :sunglasses::heart:](https://github.com/amirhfro)
+- [shahrad Taherzadeh](https://github.com/shahrad)🤞
 - [M.Qadimi](https://github.com/mqadimi)
 - [Alireza Memari](https://github.com/khamene)
 - [**Elias Bakhtiyari** :stuck_out_tongue::blue_heart::nine::seven::zero::four:](https://github.com/elioot1997)
